@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e9f5f2;
+    color: #333;
+}
+
+header {
+    background-color: #00796b;
+    color: white;
+    padding: 10px 0;
+}
+
+.navbar {
+    background-color: #00796b;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.section-title {
+    color: #00796b;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #004d40;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
